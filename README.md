@@ -48,6 +48,5 @@ A comprehensive diagnostic suite that tests all major subsystems of Arduino boar
 
 ### Option 1: Clone Repository
 ```bash
-git clone https://github.com/Svarkovsky/arduino-diagnostics.git
-
-cd arduino-diagnostics
+git clone https://github.com/Svarkovsky/Arduino-Diagnostics-V4.0-MULTI-BOARD-.git
+cd Arduino-Diagnostics-V4.0-MULTI-BOARD-
